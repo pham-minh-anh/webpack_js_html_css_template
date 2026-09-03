@@ -1,6 +1,6 @@
 // webpack.config.js
 import path from "node:path";
-import HtmlWebpackPlugin from 'html-webpack-plugin';
+import HtmlWebpackPlugin from "html-webpack-plugin";
 
 export default {
   mode: "development",
